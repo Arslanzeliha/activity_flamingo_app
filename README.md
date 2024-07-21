@@ -1,8 +1,14 @@
 # activity_flamingo_app
 
-A new Flutter project.
+Aktivite Uygulaması 
 
-## Getting Started
+Bu proje, kulüpler tarafından paylaşılan etkinliklere kullanıcıların katılabileceği bir uygulamadır. Flutterla geliştirdiğim bu uygulama kullanıcıların etkinlikleri keşfetmesine, katılmasına ve bu etkinlikler hakkında bilgi almasına olanak tanınır. Aynı zamanda, Twitter'a benzeyen bir sosyal medya platformu işlevi görerek, kullanıcıların etkinlikler hakkında düşüncelerini paylaşmasını ve diğer kullanıcılarla etkileşimde bulunmasını sağlar. Proje, sosyal medya özellikleri ile etkinlik yönetimini bir araya getirerek kullanıcı dostu ve etkileşimli bir deneyim sunar.
+
+
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/1">
+
+
+
 
 This project is a starting point for a Flutter application.
 
