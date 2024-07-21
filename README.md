@@ -6,16 +6,16 @@ Bu proje, kulüpler tarafından paylaşılan etkinliklere kullanıcıların kat�
 
 
 <img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/1.png" width="200">
-<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/2.png">
-<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/3.png">
-<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/4.png">
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/2.png" width="200">
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/3.png"width="200">
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/4.png"width="200">
 
-<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/5.png">
-<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/6.png">
-<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/7.png">
-<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/8.png">
-<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/9.png">
-<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/91.png">
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/5.png" width="200">
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/6.png" width="200">
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/7.png" width="200">
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/8.png" width="200">
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/9.png" width="200">
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/91.png" width="200">
 
 
 
