@@ -5,7 +5,7 @@ Aktivite Uygulaması
 Bu proje, kulüpler tarafından paylaşılan etkinliklere kullanıcıların katılabileceği bir uygulamadır. Flutterla geliştirdiğim bu uygulama kullanıcıların etkinlikleri keşfetmesine, katılmasına ve bu etkinlikler hakkında bilgi almasına olanak tanınır. Aynı zamanda, Twitter'a benzeyen bir sosyal medya platformu işlevi görerek, kullanıcıların etkinlikler hakkında düşüncelerini paylaşmasını ve diğer kullanıcılarla etkileşimde bulunmasını sağlar. Proje, sosyal medya özellikleri ile etkinlik yönetimini bir araya getirerek kullanıcı dostu ve etkileşimli bir deneyim sunar.
 
 
-<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/1.png">
+<img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/1.png" width="100">
 <img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/2.png">
 <img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/3.png">
 <img  src="https://github.com/Arslanzeliha/activity_flamingo_app/blob/master/images/4.png">
